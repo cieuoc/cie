@@ -1,6 +1,9 @@
 site_name: Centre for Innovation and Entrpreneurship - UoC
+site_url: https://cie.uoc.ac.in
+
 theme:
   name: 'material'
+  custom_dir: overrides
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -20,6 +23,9 @@ theme:
   features:
     - navigation.footer
     - content.code.copy
+    - header.autohide
+    - announce.dismiss
+
   icon:
     annotation: material/arrow-right-circle 
  
@@ -52,7 +58,8 @@ markdown_extensions:
         custom_checkbox: True
     - pymdownx.tilde
 
-extra_css: ["assets/main.css"]
+extra_css: ["assets/main.css","assets/lightbox/css/lightbox.min.css"]
+extra_javascript: ["assets/lightbox/js/lightbox-plus-jquery.min.js"]
 
 extra:
   palette:
@@ -67,10 +74,10 @@ plugins:
 
 repo_name: 'cieuoc/cie'
 repo_url: 'https://github.com/cieuoc/cie'
-copyright: 'Copyright © 2019 <a href="https://cie.uoc.ac.in">CIE-UoC</a>'
+copyright: 'Copyright © 2024 <a href="https://cie.uoc.ac.in">CIE-UoC</a>'
 
 nav:
   - Home: 'index.md'
+  - Program Details: 'details.md'
   - Syllabus: 'syllabus.md'
-  - 2 Hour Tutorial: 'workshop.md'
 

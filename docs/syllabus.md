@@ -13,83 +13,72 @@
 
 + Variables and Math Operators
 
-+ Repeat Function (Loops)
++ Repeat Function (Loops)	
+    + Multiplication Table generator
+    + Repeat with variable (Count function)
+    + Number Series generator
 
-i. Multiplication Table generator
++ Plot Data
+    + Plotting Data using Phone Sensors.
+    + Plotting Intensity of Ambient Light using phone sensor
+    + Data Plotting using Accelerometer of the phone 
 
-Repeat with variable (Count function)
-
-i. Number Series generator
-
-Plot Data
-
-Plotting Data using Phone Sensors. 
-
-i. Plotting Intensity of Ambient Light using phone sensor 
-
-ii. Data Plotting using Accelerometer of the phone 
-
-Game controls using Phone Sensor data
++ Game controls using Phone Sensor data
 
  
 
 ## Introduction to KuttyPy -microcontroller
 
-Hands-On introduction to KuttyPy
++ Hands-On introduction to KuttyPy
 
-Understanding KuttyPy Registers 
++ Understanding KuttyPy Registers 
 
-i. DDRB, Ports, etc.
+  + i. DDRB, Ports, etc.
 
-Manipulation of KuttyPy Registers 
++ Manipulation of KuttyPy Registers 
 
-i. Blink Specific LEDs.
+  + Blink Specific LEDs.
 
-ii. Relate Binary with Registers
+  + Relate Binary with Registers
 
-Programming LED animations 
++ Programming LED animations 
 
-i. Shift Operator 
+  + Shift Operator
+  + Flowing LEDs 
+  + Dancing LEDs 
 
-ii. Flowing LEDs 
++ Using sensors to input data into KuttyPy
 
-iii. Dancing LEDs 
+  + [Pressure Sensors](../sensors/bmp180) 
 
-Using sensors to input data into KuttyPy
+  + [Light Sensors](https://sites.google.com/uoc.ac.in/from-blocks-to-bots/syllabus/sensors/light?authuser=0)
 
-i. [Pressure Sensors](https://sites.google.com/uoc.ac.in/from-blocks-to-bots/syllabus/sensors/pressure?authuser=0) 
+  + [Distance Sensors](https://sites.google.com/uoc.ac.in/from-blocks-to-bots/syllabus/sensors/distance-sensor?authuser=0) 
 
-ii. [Light Sensors](https://sites.google.com/uoc.ac.in/from-blocks-to-bots/syllabus/sensors/light?authuser=0)
+  + [Magnetic Sensors](https://sites.google.com/uoc.ac.in/from-blocks-to-bots/syllabus/sensors/magnetic-sensor?authuser=0)
 
-iii. [Distance Sensors](https://sites.google.com/uoc.ac.in/from-blocks-to-bots/syllabus/sensors/distance-sensor?authuser=0) 
+  + [Temperature Sensors](https://sites.google.com/uoc.ac.in/from-blocks-to-bots/syllabus/sensors/temperature?authuser=0) 
 
-iv. [Magnetic Sensors](https://sites.google.com/uoc.ac.in/from-blocks-to-bots/syllabus/sensors/magnetic-sensor?authuser=0)
-
-v. [Temperature Sensors](https://sites.google.com/uoc.ac.in/from-blocks-to-bots/syllabus/sensors/temperature?authuser=0) 
-
-vi. [Accelerometer Sensors](https://sites.google.com/uoc.ac.in/from-blocks-to-bots/syllabus/sensors/accelerometer?authuser=0)
+  + [Accelerometer Sensors](https://sites.google.com/uoc.ac.in/from-blocks-to-bots/syllabus/sensors/accelerometer?authuser=0)
 
 
 ## Introduction to vision AI.
 
-Integrating AI Gesture capture into code using a phone camera, 
++ Integrating AI Gesture capture into code using a phone camera, 
 
-Game controls using AI Gesture Capture,
++ Game controls using AI Gesture Capture,
 
-     Robotic arm controls using AI gesture capture, etc.
+  + Robotic arm controls using AI gesture capture, etc.
 
 ## Projects based on School Experiments
 
-Free-fall experiment to find the acceleration due to gravity.
++ Free-fall experiment to find the acceleration due to gravity.
++ Series and Parallel connections.
++ Bridging Ohm's Law from Past to Present. 
++ Resistance Reconnaissance: Multimeter vs. Expeyes. 
 
- Series and Parallel connections.
++ Illumination Dynamics: Power Analysis of Bulb Configurations. 
 
-Bridging Ohm's Law from Past to Present. 
++ Reflecting Perspectives: Mirror Equation Investigation. 
 
-Resistance Reconnaissance: Multimeter vs. Expeyes. 
-
-Illumination Dynamics: Power Analysis of Bulb Configurations. 
-
-Reflecting Perspectives: Mirror Equation Investigation. 
-
-Moving Forward: A Journey into the World of Motion
++ Moving Forward: A Journey into the World of Motion

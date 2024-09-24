@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 STEM Innovation Camp: Science, Electronics, and AI  2-Day Hands-on Training Workshop
 
 ## Program for the next batch : Registrations open
@@ -36,3 +37,17 @@ email:  cie@uoc.ac.in
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/PFh62AY8tZE" title="Running LEDs in KuttyPy | LED animation | Register manipulation | workshop University of Calicut" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+=======
+![Screenshot](images/B2.jpg)
+![Screenshot](images/B3.jpg)
+
+# About CIE
+The University of Calicut has established the Centre for Innovation and Entrepreneurship (CIE) with the mission of fostering a culture of innovation among students and research scholars, as well as supporting startups and business ventures initiated by faculty, students, and researchers. The CIE hosts an incubation centre, a Fabrication Laboratory (FabLab), and a Training & Skilling Centre. The Centre was officially inaugurated on 16.01.2024 by the Honourable Minister for Public Works, Tourism, and Youth Affairs, Sri P. A. Mohammed Riyas.
+
+
+
+
+```python
+some code
+```
+>>>>>>> 076cb8513277c9d42c68b6e6597d623ce83359e1

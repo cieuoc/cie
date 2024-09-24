@@ -8,6 +8,6 @@ some code
 ```
 
 !!! info "BANNER"
-	![Screenshot](images/CIE.jpg)
+	![Screenshot](images/B1.jpg)
 
 

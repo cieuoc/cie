@@ -1,5 +1,5 @@
-![Screenshot](images/B2.jpg){.slide}
-![Screenshot](images/B3.jpg){.slide}
+![Screenshot](images/B2.jpg)
+![Screenshot](images/B3.jpg)
 
 # Welcome to CIE
 

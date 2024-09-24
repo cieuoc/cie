@@ -1,4 +1,4 @@
-![Screenshot](images/B1.jpg)
+![Screenshot](images/B2.jpg,images/B3.jpg)
 
 # Welcome to CIE
 

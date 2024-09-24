@@ -8,6 +8,6 @@ some code
 ```
 
 !!! info "BANNER"
-	![Screenshot](images/favicon.png)
+	![Screenshot](images/CIE.jpg)
 
 

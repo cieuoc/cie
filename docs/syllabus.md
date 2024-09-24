@@ -14,23 +14,18 @@
 + Variables and Math Operators
 
 + Repeat Function (Loops)
+	+ Multiplication Table generator
 
-i. Multiplication Table generator
++ Repeat with variable (Count function)
+	+ Number Series generator
 
-Repeat with variable (Count function)
++ Plot Data
 
-i. Number Series generator
++ Plotting Data using Phone Sensors.
+	+ Plotting Intensity of Ambient Light using phone sensor
+	+ Data Plotting using Accelerometer of the phone 
 
-Plot Data
-
-Plotting Data using Phone Sensors. 
-
-i. Plotting Intensity of Ambient Light using phone sensor 
-
-ii. Data Plotting using Accelerometer of the phone 
-
-Game controls using Phone Sensor data
-
++ Game controls using Phone Sensor data
  
 
 ## Introduction to KuttyPy -microcontroller

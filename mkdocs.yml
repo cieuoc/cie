@@ -71,5 +71,6 @@ copyright: 'Copyright © 2019 <a href="https://cie.uoc.ac.in">CIE-UoC</a>'
 
 nav:
   - Home: 'index.md'
+  - Syllabus: 'syllabus.md'
   - 2 Hour Tutorial: 'workshop.md'
 

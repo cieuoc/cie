@@ -1,6 +1,6 @@
 site_name: Centre for Innovation and Entrpreneurship - UoC
 theme:
-  name: 'material'
+  name: 'readthedocs'
   palette:
     # Palette toggle for light mode
     - scheme: default

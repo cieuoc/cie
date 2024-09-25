@@ -166,9 +166,10 @@
 
 /* Common styles for both primary and secondary buttons */
 .large-button {
-    padding: 15px 30px;
+    padding: 5px 20px;
     font-size: 18px;
-    border-radius: 5px;
+    border-radius: 10px;
+    margin: 8px;
     font-weight: bold;
     text-align: center;
     display: inline-block;
@@ -178,14 +179,14 @@
 }
 
 /* Primary button styles */
-.large-button.primary {
-    background-color: #007bff;  /* Bootstrap blue or a custom primary color */
+.large-button {
+    background-color: #dbd7d7;  /* Bootstrap blue or a custom primary color */
     color: white;
     border: none;
 }
 
-.large-button.primary:hover {
-    background-color: #0056b3;  /* Darker blue on hover */
+.large-button:hover {
+    background-color: #c5e1b5;;  /* Darker blue on hover */
 }
 
 /* Secondary button styles */
@@ -195,6 +196,18 @@
     border: none;
 }
 
-.large-button.secondary:hover {
-    background-color: #5a6268;  /* Darker gray on hover */
+/* colors */
+.red {
+    color: red !important;
 }
+.blue {
+    color: blue !important;
+}
+.green {
+    color: green !important;
+}
+.orange {
+    color: orange !important;
+}
+
+

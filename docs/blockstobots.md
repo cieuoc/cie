@@ -6,10 +6,10 @@ STEM Innovation Camp: Science, Electronics, and AI  2-Day Hands-on Training Work
 
 ## Program for the next batch : Registrations open
 
-[Program Info](../details){:class="large-button primary"  target="_blank"}
-[Program Syllabus](../syllabus){:class="large-button secondary" target="_blank"}
-[Program Schedule](../assets/schedule.pdf){:class="large-button primary" target="_blank"}
-[Register Now](https://forms.gle/ARihSSCncDVzfgaMA){:class="large-button secondary" target="_blank"}
+[Program Info](../details){:class="large-button red"  target="_blank"}
+[Program Syllabus](../syllabus){:class="large-button green" target="_blank"}
+[Program Schedule](../assets/schedule.pdf){:class="large-button blue" target="_blank"}
+[Register Now](https://forms.gle/ARihSSCncDVzfgaMA){:class="large-button orange" target="_blank"}
 
 
 We offer programs for school groups of 40 students. Faculties of interested schools can contact us to book. 

@@ -58,6 +58,7 @@ markdown_extensions:
     - pymdownx.tasklist:
         custom_checkbox: True
     - pymdownx.tilde
+    - pymdownx.blocks.html
 
 extra_css: ["assets/main.css","assets/lightbox/css/lightbox.min.css","assets/carousel.css","assets/xtra.css"]
 extra_javascript: ["assets/lightbox/js/lightbox-plus-jquery.min.js", "assets/carousel.js"]

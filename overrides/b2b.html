@@ -20,9 +20,21 @@
 {% endblock %}
 
 {% block htmltitle %}
-  <title>Centre For Innovation</title>
+  <title>CIE: Blocks to Bots</title>
 {% endblock %}
 
+{% block header %}
+{{ super() }}
+
+
+<!-- Custom Banner -->
+<div class="banner">
+  <div class="full-width-banner">
+    <img src="../images/cover.png" alt="Banner Image" class="banner-image">
+  </div>
+
+</div>
+{% endblock %}
 
 {% block content %}
 

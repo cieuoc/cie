@@ -1,4 +1,4 @@
-site_name: Centre for Innovation and Entrpreneurship - UoC
+site_name: Centre for Innovation and Entrpreneurship
 site_url: https://cie.uoc.ac.in
 
 theme:
@@ -25,7 +25,8 @@ theme:
     - content.code.copy
     - header.autohide
     - announce.dismiss
-
+    - navigation.tabs
+    - navigation.tabs.sticky
   icon:
     annotation: material/arrow-right-circle 
  
@@ -78,6 +79,10 @@ copyright: 'Copyright © 2024 <a href="https://cie.uoc.ac.in">CIE-UoC</a>'
 
 nav:
   - Home: 'index.md'
-  - Program Details: 'details.md'
-  - Syllabus: 'syllabus.md'
+  - Events:
+    - Events : 'events.md'
+    - Blocks To Bots:
+      - Home: 'blockstobots.md'
+      - Program Details: 'details.md'
+      - Syllabus: 'syllabus.md'
 

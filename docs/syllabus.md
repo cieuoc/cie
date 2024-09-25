@@ -1,3 +1,7 @@
+---
+template: b2b_pages.html
+---
+
 ## Introduction to Number System
 
 + Decimal Number System

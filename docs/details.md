@@ -1,3 +1,7 @@
+---
+template: b2b_pages.html
+---
+
 
 + The workshop is intended for students of classes 8 to 10.
 
@@ -29,9 +33,9 @@
 
 
 <div class="image-grid-large">
-  <a href="/images/map.jpg" class="image-grid-large" data-lightbox="image1" data-title="How to reach the incubator"> <img src="/images/map.jpg" > </a>
-  <a href="/images/app.jpg" class="image-grid-large-wide" data-lightbox="image1" data-title="Scan to download the app"> <img src="/images/app.jpg" > </a>
-  <a href="/images/ctype.jpg" class="image-grid-large" data-lightbox="image1" data-title="C type port. Bring such a phone"> <img src="/images/ctype.jpg" > </a>
+  <a href="../images/map.jpg" class="image-grid-large" data-lightbox="image1" data-title="How to reach the incubator"> <img src="../images/map.jpg" > </a>
+  <a href="../images/app.jpg" class="image-grid-large-wide" data-lightbox="image1" data-title="Scan to download the app"> <img src="../images/app.jpg" > </a>
+  <a href="../images/ctype.jpg" class="image-grid-large" data-lightbox="image1" data-title="C type port. Bring such a phone"> <img src="../images/ctype.jpg" > </a>
 </div>
 
 

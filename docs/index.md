@@ -1,6 +1,6 @@
 <div class="image-grid-large">
-  <a href="../images/B2.jpg" class="image-grid-large" data-lightbox="image1"> <img src="../images/B2.jpg" > </a>
-  <a href="../images/B3.jpg" class="image-grid-large" data-lightbox="image1"> <img src="../images/B3.jpg" > </a>
+  <a href="images/B2.jpg" class="image-grid-large" data-lightbox="image1"> <img src="images/B2.jpg" > </a>
+  <a href="images/B3.jpg" class="image-grid-large" data-lightbox="image1"> <img src="images/B3.jpg" > </a>
 </div>
 
 

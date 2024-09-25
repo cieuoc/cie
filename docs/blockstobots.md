@@ -6,19 +6,24 @@ STEM Innovation Camp: Science, Electronics, and AI  2-Day Hands-on Training Work
 
 ## Program for the next batch : Registrations open
 
-[Program Info!](../details){:class="large-button primary"  target="_blank"}
-[Register Now!](https://forms.gle/ARihSSCncDVzfgaMA){:class="large-button secondary" target="_blank"}
+[Program Info](../details){:class="large-button primary"  target="_blank"}
+[Program Syllabus](../syllabus){:class="large-button secondary" target="_blank"}
+[Program Schedule](../assets/schedule.pdf){:class="large-button primary" target="_blank"}
+[Register Now](https://forms.gle/ARihSSCncDVzfgaMA){:class="large-button secondary" target="_blank"}
 
 
 We offer programs for school groups of 40 students. Faculties of interested schools can contact us to book. 
+
+
 Contact: Director, Centre for Innovation & Entrepreneurship, University of Calicut
 
+Phone: [9961 82 4725](tel:+919961824725), [8156 83 2705](tel:+918156832705)
 
 email:  cie@uoc.ac.in
 
 ### Program Dates (Ongoing and Upcoming Batches)
 
-+ Batch 4: Dates will updated soon (it will be after 7th September) -[Registration Open](https://forms.gle/ARihSSCncDVzfgaMA){:target="_blank"}
++ Batch 5: Dates will updated soon -[Registration Open](https://forms.gle/ARihSSCncDVzfgaMA){:target="_blank"}
 + Batch 4: 18th September (Wed) and 20th September (Fri)-Registration Closed 
 + Batch 3: 17th August (Sat) and 24th August (Sat)-Registration Closed 
 + Batch 2: 10th August (Sat) and 15th August (Thu)-Registration Closed 

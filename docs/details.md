@@ -3,6 +3,9 @@ template: b2b_pages.html
 ---
 
 
+## Program Details
+
+
 + The workshop is intended for students of classes 8 to 10.
 
 + A registration fee of  Rs.400/- per participant.
@@ -17,9 +20,9 @@ template: b2b_pages.html
 
 + All the participants have to **bring lunch on their own**. Tea and refreshments will be provided from the program.
 
-+ All the programs are intended to be conducted inside the University of Calicut Campus, Thenhipalam, Kozhikode. (Route map provided below) (Venue might change)
++ All the programs are intended to be conducted inside the University of Calicut Campus, Thenhipalam, Kozhikode. [Route map provided below](../images/map.jpg) (Venue might change)
 
-+ The participants should **bring a Type-C Android phone** with them. (Check the image given below)
++ The participants should **bring a [Type-C Android phone](../images/ctype.jpg)** with them. (Check the image given below)
 
 + The participants also should bring mobile phone chargers for charging their phones in case they run out of charge.
 
@@ -33,7 +36,7 @@ template: b2b_pages.html
 
 
 <div class="image-grid-large">
-  <a href="../images/map.jpg" class="image-grid-large" data-lightbox="image1" data-title="How to reach the incubator"> <img src="../images/map.jpg" > </a>
+  <a href="../images/map.jpg" class="image-grid-large" data-lightbox="image1" data-title="How to reach the venue"> <img src="../images/map.jpg" > </a>
   <a href="../images/app.jpg" class="image-grid-large-wide" data-lightbox="image1" data-title="Scan to download the app"> <img src="../images/app.jpg" > </a>
   <a href="../images/ctype.jpg" class="image-grid-large" data-lightbox="image1" data-title="C type port. Bring such a phone"> <img src="../images/ctype.jpg" > </a>
 </div>

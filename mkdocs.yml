@@ -1,4 +1,4 @@
-site_name: Centre for Innovation and Entrpreneurship
+site_name: Centre for Innovation and Entrepreneurship
 site_url: https://cie.uoc.ac.in
 
 theme:
@@ -28,13 +28,13 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
   icon:
-    annotation: material/arrow-right-circle 
- 
+    annotation: material/arrow-right-circle
+
 
 #theme: 'readthedocs'
 markdown_extensions:
     - toc:
-        permalink: True
+        permalink: true
     - admonition
     - smarty
     - attr_list
@@ -59,15 +59,14 @@ markdown_extensions:
         custom_checkbox: True
     - pymdownx.tilde
 
-extra_css: ["assets/main.css","assets/lightbox/css/lightbox.min.css"]
-extra_javascript: ["assets/lightbox/js/lightbox-plus-jquery.min.js"]
+extra_css: ["assets/main.css","assets/lightbox/css/lightbox.min.css","assets/carousel.css","assets/xtra.css"]
+extra_javascript: ["assets/lightbox/js/lightbox-plus-jquery.min.js", "assets/carousel.js"]
 
 extra:
   palette:
       primary: '#087da1'
       accent: '#00a889'
   generator: false
-
 
 plugins:
    - search

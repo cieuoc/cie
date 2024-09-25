@@ -69,7 +69,7 @@ template: b2b_pages.html
 
 + Game controls using AI Gesture Capture,
 
-  + Robotic arm controls using AI gesture capture, etc.
++ Robotic arm controls using AI gesture capture, etc.
 
 + Integrating AI Gesture capture into code using a phone camera,
 + Game controls using AI Gesture Capture,

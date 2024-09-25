@@ -1,0 +1,8 @@
+body {
+  text-align: justify;
+}
+
+.half-width {
+  max-width: 50%;
+  height: auto;
+}

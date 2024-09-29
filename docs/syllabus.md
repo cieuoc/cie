@@ -56,7 +56,7 @@ template: b2b_pages.html
 
   + [Distance Sensors](https://sites.google.com/uoc.ac.in/from-blocks-to-bots/syllabus/sensors/distance-sensor?authuser=0) 
 
-  + [Magnetic Sensors](https://sites.google.com/uoc.ac.in/from-blocks-to-bots/syllabus/sensors/magnetic-sensor?authuser=0)
+  + [Magnetic Sensors](../sensors/hmc5883l)
 
   + [Temperature Sensors](https://sites.google.com/uoc.ac.in/from-blocks-to-bots/syllabus/sensors/temperature?authuser=0) 
 

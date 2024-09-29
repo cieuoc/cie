@@ -122,6 +122,11 @@
     gap: 10px; /* Adds space between images */
 }
 
+.dual-stackable{
+    width: calc(49% - 10px); /* 6 images per row, minus the gap */
+    max-width: 100%;
+    }
+
 /* Styling each image inside the grid */
 .image-grid a {
     width: calc(16.66% - 10px); /* 6 images per row, minus the gap */
@@ -161,6 +166,11 @@
     .image-grid-large a {
         width: calc(49% - 10px); /* 2 images per row on mobile */
     }
+
+    .dual-stackable{
+        width: calc(100% - 10px); /* 6 images per row, minus the gap */
+        max-width: 100%;
+        }
 
 }
 

@@ -13,9 +13,8 @@
 
 # Centre for Innovation and Entrepreneurship
 
-<div style="float: left; margin-right: 10px;">
-  <img src="images/CIE.jpg" alt="CIE" width="300">
-</div>
+
+![](images/CIE.jpg){:style="float: left; margin-right: 10px; width="300"}
 
 <div style="text-align: justify;">
 The University of Calicut has established the Centre for Innovation and Entrepreneurship (CIE) with the mission 

@@ -21,4 +21,6 @@ on 16.01.2024 by the Honourable Minister for Public Works, Tourism, and Youth Af
 
 
 </div>
+<hr><br>
 
+For details on equipment availabilility, visit the [Fablab page](../fablab). 

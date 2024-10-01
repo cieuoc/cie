@@ -1,14 +1,17 @@
 ---
 template: b2b.html
+title: NAV TITLE 
+no_title_header: true
 hide:
   - toc
+  - title
 ---
 
 STEM Innovation Camp: Science, Electronics, and AI  2-Day Hands-on Training Workshop
 
 ## Program for the next batch : Registrations open
 
-[Program Info](../blockstobots_details){:class="large-button red"}
+[Program Info](../Program_Details){:class="large-button red"}
 [Program Syllabus](../blockstobots_syllabus){:class="large-button green"}
 [Program Schedule](../assets/schedule.pdf){:class="large-button blue"}
 [Register Now](https://forms.gle/ARihSSCncDVzfgaMA){:class="large-button orange"}

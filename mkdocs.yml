@@ -18,15 +18,16 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  logo: images/logo.png
+  logo: 'images/logo.png'
   favicon: 'images/logo.png'
   features:
-    - navigation.footer
+    - navigation.top
     - content.code.copy
     - header.autohide
     - announce.dismiss
-    - navigation.tabs
-    - navigation.tabs.sticky
+#    - navigation.tabs
+#    - navigation.tabs.sticky
+#    - toc.integrate
   icon:
     annotation: material/arrow-right-circle
 
@@ -60,6 +61,7 @@ markdown_extensions:
     - pymdownx.tilde
     - pymdownx.blocks.html
 
+
 extra_css: ["assets/main.css","assets/lightbox/css/lightbox.min.css","assets/carousel.css","assets/xtra.css"]
 extra_javascript: ["assets/lightbox/js/lightbox-plus-jquery.min.js", "assets/carousel.js"]
 
@@ -79,10 +81,19 @@ copyright: 'Copyright © 2024 <a href="https://cie.uoc.ac.in">CIE-UoC</a>'
 
 nav:
   - Home: 'index.md'
-  - Events:
-    - Events : 'events.md'
-    - Blocks To Bots:
-      - Home: 'blockstobots.md'
-      - Program Details: 'details.md'
-      - Syllabus: 'syllabus.md'
+  - Facilities:
+      - Incubation Centre: 'facilities/incubation.md'
+      - FabLab: 'facilities/fablab.md'
+      - Training & Skilling Centre: 'facilities/skill_centre.md'
+  - Projects:
+    - Ongoing Events :
+      - from Blocks To Bots: 'projects/b2b/blockstobots.md'
+    - Past Events :
+      - SEELab: 'projects/past/seelab.md'
+      - LED Repairing Workshop: 'projects/past/led.md'
+  - People:
+      - Director: 'people/director.md'
+      - Staff: 'people/staff.md'
+  - Gallery: 'gallery.md'
+
 

@@ -1,7 +1,13 @@
+---
+hide:
+  - toc
+---
+
 <!-- Carousel Container -->
 <div class="carousel-container">
   <div class="carousel">
     <img class="carousel-slide" src="images/B2.jpg" alt="Image 2" style="width:100%">
+    <img class="carousel-slide" src="images/B4.svg" alt="Image 3" style="width:100%">
     <img class="carousel-slide" src="images/B3.jpg" alt="Image 3" style="width:100%">
   </div>
 
@@ -13,6 +19,9 @@
 
 # Centre for Innovation and Entrepreneurship
 
+<div style="float: left; margin-right: 10px;">
+  <img src="images/CIE.jpg" alt="CIE" width="400">
+</div>
 
 ![](images/CIE.jpg){:style="float: left; margin-right: 10px; width="300"}
 

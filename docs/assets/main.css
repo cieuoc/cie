@@ -193,6 +193,7 @@
     background-color: #dbd7d7;  /* Bootstrap blue or a custom primary color */
     color: white;
     border: none;
+    width: 200px;
 }
 
 .large-button:hover {

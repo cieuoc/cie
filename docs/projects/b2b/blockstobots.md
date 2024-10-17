@@ -14,6 +14,9 @@ STEM Innovation Camp: Science, Electronics, and AI  2-Day Hands-on Training Work
 [Program Info](../blocktobots_details){:class="large-button red"}
 [Program Syllabus](../blockstobots_syllabus){:class="large-button green"}
 [Program Schedule](../assets/schedule.pdf){:class="large-button blue"}
+[Gallery](../blocktobots_gallery){:class="large-button orange"}
+
+
 [Register Now](https://forms.gle/ARihSSCncDVzfgaMA){:class="large-button orange"}
 
 

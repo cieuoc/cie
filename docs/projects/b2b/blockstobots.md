@@ -7,11 +7,11 @@ hide:
   - title
 ---
 
+## from Blocks to Bots
+
 STEM Innovation Camp: Science, Electronics, and AI  2-Day Hands-on Training Workshop
 
-## Program for the next batch : Registrations open
-
-[Program Info](../Program_Details){:class="large-button red"}
+[Program Info](../blocktobots_details){:class="large-button red"}
 [Program Syllabus](../blockstobots_syllabus){:class="large-button green"}
 [Program Schedule](../assets/schedule.pdf){:class="large-button blue"}
 [Register Now](https://forms.gle/ARihSSCncDVzfgaMA){:class="large-button orange"}

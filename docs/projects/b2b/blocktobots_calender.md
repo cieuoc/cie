@@ -1,2 +1,2 @@
 <br>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FKolkata&bgcolor=%23E67C73&showPrint=0&showTabs=0&showCalendars=0&showTz=0&src=Y184ZWM2ZjA0OGFlYjg1NGQ2NWQ5YTJiOTc0MGUyMjc5YTNlY2M0YWNlYjE4NWNhZTg0OWFjMjk0ZmI5MGM2NGQwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23EF6C00" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FKolkata&showPrint=0&showTz=0&title&src=ZTY5Y2ExYzk1YTRjZDQ2MmI3NWM5ZWUyODkzMTRjZjE3YWFiZDMwOWJlNjQyZjMwYjZkNjAxZGZiMWZkNjBmNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%234285F4" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>

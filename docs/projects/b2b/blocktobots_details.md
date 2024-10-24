@@ -10,11 +10,9 @@ hide:
 
 + The workshop is intended for students of classes 8 to 10.
 
-+ A registration fee of  Rs.400/- per participant.
++ A registration fee of  Rs.200/- per participant.
 
 + The intended size of each batch is 40 participants.
-
-+ The next program dates are 31st August 2024 (Day 1) and 7th September 2024 (Day 2).
 
 + The participants will be given work to do on the first day, which has to be submitted on the second day.
 
